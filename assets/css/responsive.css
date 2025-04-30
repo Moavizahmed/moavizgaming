@@ -1,0 +1,210 @@
+/*for-desktop view-1600*/   /*xxl*/
+@media only screen and (min-width: 100px) and (max-width: 1600px) {
+}
+  
+/*for-large-dekstop view-1200*/  /*xl*/  
+@media only screen and (min-width: 100px) and (max-width: 1399px) {
+}
+.navigation nav ul {
+    gap: 20px;
+}
+.banner-content p { 
+    bottom: 120px;
+    right: 90px;
+}
+.serv-head h1 {
+    font-size: 33px;
+}
+.test-head h1 {
+	font-size: 33px;
+}
+section.services {
+    padding: 90px 0px;
+}
+.sub-content h2 {
+    font-size: 45px;
+}
+.sub-content p {
+    font-size: 13px;
+}
+section.portfolio {
+    padding: 0px 0px 80px 0px;
+}
+section.our-testimonals {
+    padding: 50px 0px 100px 0px;
+}
+.testimonals h2 {
+    font-size: 19px;
+    padding-bottom: 10px;
+}
+.pers-content h4 {
+    font-size: 18px;
+}
+.pers-content p {
+    font-size: 14px;
+}
+.review-content p {
+    line-height: 24px;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.review-stars i {
+    font-size: 15px;
+}
+.form-title h2 {
+    font-size: 38px;
+}
+.main input, .main textarea {
+    padding: 11px 10px;
+    border: 1px dashed var(--c1);
+}
+.foot-logo h1 {
+    font-size: 76px;
+}
+.support ul li {
+    font-size: 15px;
+}
+.navigation nav ul li a {
+    font-size: 16px;
+}
+
+
+
+/*for-laptop view-1024*/ /*lg*/  
+@media only screen and (min-width: 100px) and (max-width: 1199px) {
+}
+.navigation nav ul li a {
+    font-size: 14px;
+}
+.navigation nav ul {
+    gap: 17px;
+}
+.banner-content p {
+    bottom: 80px;
+    right: 80px;
+}
+.service-content {
+    margin: 25px;
+    padding: 10px 13px;
+}
+.service-content h3 {
+    font-size: 20px;
+}
+.service-content p {
+    font-size: 14px;
+    line-height: 19px;
+    color: gray;
+}
+.service-content img {
+    width: 50px;
+    height: 40px;
+}
+.service-content {
+    bottom: 20px;
+}
+.service-img img {
+    height: 200px;
+}
+.sub-content h2 {
+    font-size: 38px;
+}
+.portfolio-img img {
+    height: 230px;
+}
+.port-head h1 {
+    padding: 15px 0px 15px 0px;
+    font-size: 29px;
+}
+.review-content p {
+    line-height: 22px;
+    font-size: 13px;
+}
+.foot-logo h1 {
+    font-size: 59px;
+}
+.support ul li {
+    font-size: 14px;
+}
+.links ul li i {
+    font-size: 25px;
+}
+.btn input[type="submit"] {
+    padding: 2px 15px;
+}
+/*for-tablet view-768*/ /*md*/  
+@media only screen and (min-width: 100px) and (max-width: 991px) {
+}
+.logo a {
+    font-size: 55px;
+}
+.portfolio-img img {
+    width: 331px;
+}
+.testimonals {
+    margin: 10px 0px;
+}
+.touch-img img {
+    width: 100%;
+    height: 667px;
+    object-fit: cover;
+}
+.sign-up input[type="text"] {
+    width: 75%;
+}
+.submit-btn input[type="submit"] {
+    padding: 5px 15px;
+    font-size: 13px;
+}
+.logo {
+    display: flex;
+    justify-content: start;
+}
+.search-main {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.mob-menu-box a i {
+    color: var(--c1);
+    font-size: 22px;
+}
+.banner-content p {
+    bottom: 10px;
+    right: 20px;
+    font-size: 25px;
+}
+.sub-content {
+    padding: 120px 20px 110px 20px;
+}
+
+
+/*for-tablet view-576*/ /*sm*/  
+@media only screen and (min-width: 100px) and (max-width: 767px) {
+}
+.service-main {
+    margin: 15px 0px;
+}
+.service-content {
+    bottom: 40px;
+}
+.service-content {
+    margin: 15px 10px;
+    padding: 10px 10px;
+}
+.portfolio-img img {
+    width: 100%;
+}
+section.services {
+    padding: 90px 0px 10px;
+}
+.sub-content {
+    padding: 90px 20px 110px 20px;
+}
+
+/*for mobile view 375 col*/
+@media only screen and (min-width: 100px) and (max-width: 575px) {	
+}
+
+/*for small mobile view 320 */
+@media only screen and (min-width: 100px) and (max-width: 374px) {
+}
